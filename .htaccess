@@ -1,0 +1,4 @@
+AuthType 			Basic
+AuthName 			"Zugang nur mit Name und Pw möglich"
+AuthUserFile 		/var/www/emtr/squabox/.htpasswd
+Require valid-user
