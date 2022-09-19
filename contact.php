@@ -1,6 +1,6 @@
 <?php
 
-    $site_owners_email = 'emily.truong@outlook.de'; // Replace this with your own email address
+    $site_owners_email = 'emilyvu.truong@gmail.com'; // Replace this with your own email address
     $site_owners_name = 'Emily Truong'; // replace with your name
 
     $name = filter_var($_POST['contactName'], FILTER_SANITIZE_STRING);
